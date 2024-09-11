@@ -39,3 +39,7 @@ build/
 # OS-specific files (optional, in case others clone on different OS)
 .DS_Store
 Thumbs.db
+
+backend/.idea/
+backend/target/
+backend/*.iml
